@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_confirm_login.xml" value="0.25" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_favorites.xml" value="0.33" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_history.xml" value="0.2640625" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_main.xml" value="0.278125" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_meni_sl.xml" value="0.278125" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_menu_ch.xml" value="0.33" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_menu_in.xml" value="0.2640625" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_menu_it.xml" value="0.278125" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_menu_sl.xml" value="0.278125" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_my_profile.xml" value="0.25" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_order.xml" value="0.278125" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_orderdetails.xml" value="0.278125" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_recipe.xml" value="0.278125" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/activity_takeaway.xml" value="0.278125" />
+        <entry key="..\:/Dining-Garage/app/src/main/res/layout/takeaway.xml" value="0.278125" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

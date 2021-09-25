@@ -10,6 +10,36 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DiningGarage">
         <activity
+            android:name=".Order"
+            android:exported="true" />
+        <activity
+            android:name=".Favorites"
+            android:exported="true" />
+        <activity
+            android:name=".MenuSl"
+            android:exported="true" />
+        <activity
+            android:name=".MenuIt"
+            android:exported="true" />
+        <activity
+            android:name=".MenuIn"
+            android:exported="true" />
+        <activity
+            android:name=".MenuCh"
+            android:exported="true" />
+        <activity
+            android:name=".MyProfile"
+            android:exported="true" />
+        <activity
+            android:name=".Register"
+            android:exported="true" />
+        <activity
+            android:name=".ConfirmLogin"
+            android:exported="true" />
+        <activity android:name=".Payment" />
+        <activity android:name=".paymentMethod" />
+        <activity android:name=".EnterDelivery" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
