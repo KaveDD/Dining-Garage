@@ -23,6 +23,7 @@
             android:name=".paymentMethod"
             android:exported="true" />
 
+
     </application>
 
 </manifest>

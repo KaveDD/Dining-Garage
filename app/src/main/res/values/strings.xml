@@ -1,8 +1,10 @@
 <resources>
+
     <string name="app_name">Dining Garage</string>
 
 
     <string name="app">Dining Garage</string>
+
 
     <string name="logo">Logo</string>
     <string name="phone">0712345678</string>
