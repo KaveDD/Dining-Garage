@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Dining Garage</string>
+
+
     <string name="app">Dining Garage</string>
+
     <string name="logo">Logo</string>
     <string name="phone">0712345678</string>
     <string name="enter_phone">Enter Mobile Number</string>
@@ -66,24 +69,5 @@
     <string name="recipe_ch2">Chinese soy souce noodles</string>
     <string name="recipe_it1">Creamy White Sauce Pasta</string>
     <string name="recipe_it2"><![CDATA[Chicken & Cheese Lasagna]]></string>
-    <string name="Payment">Payment</string>
-    <string name="Cash_btn">Cash</string>
-    <string name="Card_btn">Card</string>
-    <string name="Contact_no">Contact No</string>
-    <string name="Name">Name</string>
-    <string name="Date">Date</string>
-    <string name="Amount">Amount</string>
-    <string name="master_btn">Master</string>
-    <string name="visa_btn">Visa</string>
-    <string name="enter">Enter</string>
-    <string name="Next">Next</string>
-    <string name="card_det">Card Details</string>
-    <string name="nameoncard">Name on card</string>
-    <string name="Card_no">Card No</string>
-    <string name="expir_date">Expire date</string>
-    <string name="Sec">CVV</string>
-    <string name="date">Expire date</string>
-    <string name="sec">CVV</string>
-    <string name="Sub_btn">Submit</string>
 
 </resources>

@@ -14,5 +14,7 @@
         <!-- Customize your theme here. -->
     </style>
 
+
     <color name="purple_200" tools:ignore="MissingDefaultResource">#009688</color>
+
 </resources>

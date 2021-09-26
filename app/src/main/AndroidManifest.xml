@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DiningGarage">
         <activity
+
             android:name=".EnterDelivery"
             android:exported="true" />
         <activity
@@ -21,6 +22,7 @@
         <activity
             android:name=".paymentMethod"
             android:exported="true" />
+
     </application>
 
 </manifest>
