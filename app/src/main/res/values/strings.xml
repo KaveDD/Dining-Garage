@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">Meal Factory App</string>
-    <string name="app">Meal Factory</string>
+
+    <string name="app_name">Dining Garage</string>
+
+
+    <string name="app">Dining Garage</string>
+
+
     <string name="logo">Logo</string>
     <string name="phone">0712345678</string>
     <string name="enter_phone">Enter Mobile Number</string>

@@ -3,9 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/intel/AndroidStudioProjects/Dining-Garage/app/src/main/res/layout/activity_contactus.xml" value="0.25" />
-        <entry key="..\:/Users/intel/AndroidStudioProjects/Dining-Garage/app/src/main/res/layout/activity_feedback.xml" value="0.17864583333333334" />
-        <entry key="..\:/Users/intel/AndroidStudioProjects/Dining-Garage/app/src/main/res/layout/activity_retrivecontactus.xml" value="0.22" />
+
+
+        <entry key="..\:/SLIIT Y2S2/Dining-Garage/app/src/main/res/layout/activity_carddetails.xml" value="0.25" />
+        <entry key="..\:/SLIIT Y2S2/Dining-Garage/app/src/main/res/layout/activity_dilivery.xml" value="0.209375" />
+        <entry key="..\:/SLIIT Y2S2/Dining-Garage/app/src/main/res/layout/activity_enter_delivery_details.xml" value="0.209375" />
+        <entry key="..\:/SLIIT Y2S2/Dining-Garage/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/SLIIT Y2S2/Dining-Garage/app/src/main/res/layout/activity_payment.xml" value="0.209375" />
+        <entry key="..\:/SLIIT Y2S2/Dining-Garage/app/src/main/res/layout/activity_paymentmethod.xml" value="0.209375" />
+
+
       </map>
     </option>
   </component>

@@ -10,14 +10,20 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DiningGarage">
         <activity
-            android:name=".Feedback"
+
+            android:name=".EnterDelivery"
             android:exported="true" />
         <activity
-            android:name=".retrivecontactus"
+            android:name=".Dilivery"
             android:exported="true" />
         <activity
-            android:name=".Contactus"
+            android:name=".Payment"
             android:exported="true" />
+        <activity
+            android:name=".paymentMethod"
+            android:exported="true" />
+
+
     </application>
 
 </manifest>
