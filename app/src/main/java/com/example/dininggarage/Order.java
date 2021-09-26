@@ -45,7 +45,7 @@ public class Order extends AppCompatActivity {
             }
         });
 
-       /* delivery.setOnClickListener(new View.OnClickListener() {
+        delivery.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(Order.this, EnterDelivery.class);
@@ -68,7 +68,7 @@ public class Order extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-*/
+
 
         delivery.setOnClickListener(new View.OnClickListener()
 
