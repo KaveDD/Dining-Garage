@@ -10,14 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DiningGarage">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:name=".EnterDelivery"
+            android:exported="true" />
+        <activity
+            android:name=".Dilivery"
+            android:exported="true" />
+        <activity
+            android:name=".Payment"
+            android:exported="true" />
+        <activity
+            android:name=".paymentMethod"
+            android:exported="true" />
     </application>
 
 </manifest>
